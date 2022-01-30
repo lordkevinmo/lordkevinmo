@@ -1,6 +1,8 @@
-### Hi there, I'm Moïse 👋
+### Moïse Agbenya
 
-- 👨🏾‍💻 I’m a software Engineer
+- Hey there 👋🏾 I’m Moïse - a Software Developer Engineer.
+
+- [Repositories](https://github.com/lordkevinmo?tab=repositories)
 
 ## Get in touch
 - LinkedIn: [@koffi-agbenya](https://www.linkedin.com/in/koffi-agbenya/)
