@@ -1,6 +1,6 @@
 ### Moïse Agbenya
 
-- Hey there 👋🏾 I’m Moïse - a Software Developer Engineer.
+Hey there 👋🏾 I’m Moïse - a Software Developer Engineer.
 
 - [Repositories](https://github.com/lordkevinmo?tab=repositories)
 
